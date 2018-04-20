@@ -1,1 +1,18 @@
 # the-band
+This is a template for a band website and has been built with bootstrap 4 and Sass. It was basically done to get a working idea of Sass and wokring in Sass environments. The project can be seen [here.](https://mohithk100.github.io/the-band/)
+
+# Built with
+* HTML5
+* CSS
+* SASS
+* Bootstrap 4
+
+# Getting Started 
+These instructions will get you a copy of the project up and running on your local machine for development and testing
+purposes. See deployment for notes on how to deploy the project on a live system.
+
+1. Clone the repository.
+   ```
+   $ git clone https://github.com/mohithk100/tttTask_frontend
+   ```
+Make sure you have a Sass preprocessor to compile Sass into CSS. Plugins are present for all the text editors and can be downloaded easily.
